@@ -19,3 +19,5 @@ If you’ve worked with complex dynamic sites or have ideas to solve pagination,
 - Python 
 - Selenium
 - ChromeDriver
+### DISCLAIMER.
+I didn't manage to upload the automated.exe dist file ,chromedriver.exe and build due to them being extremely large files to be uploaded to github.
